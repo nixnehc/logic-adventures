@@ -27,6 +27,6 @@ my adventures on Logic
 
 ---
 
-P. Holmas 曾写过一本名为_I Want to be a Mathematician (1989)_的自传，我也想说：I Want to be a Logician!!!
+P. Holmas 曾写过一本名为 [*I Want to be a Mathematician (1989)*](https://link.springer.com/book/10.1007/978-1-4612-1084-9) 的自传，我也想说：I Want to be a Logician !!!
 
 在这里记录一下 my Logic Adventrues 吧，无论最后是否成功！
