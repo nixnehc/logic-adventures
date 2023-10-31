@@ -1,7 +1,17 @@
 # Logic Adventures
 my adventures on Logic(s)
 
-#### 2023-10-32
+
+## 11 月
+#### 11/01
+- ddd
+
+
+
+
+## 10 月
+
+#### 2023-10-31
 - 搞到 Pratt-Hartmann 所写 *Fragments of First-Order Logic* 一书的 pdf，突然觉得我的可判定性证明有了新的希望～
 
 
