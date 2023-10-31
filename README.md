@@ -1,5 +1,5 @@
-# Logic-adventures
-my adventures on Logic
+# Logic Adventures
+my adventures on Logic(s)
 
 #### 2023-10-32
 - 搞到 Pratt-Hartmann 所写 *Fragments of First-Order Logic* 一书的 pdf，突然觉得我的可判定性证明有了新的希望～
