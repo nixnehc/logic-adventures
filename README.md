@@ -4,7 +4,8 @@ my adventures on Logic(s)
 
 ## 11 月
 #### 11/01
-- ddd
+- 通过将嵌入到 $FO^2$, 十分容易的得到 squre 上的逻辑是可判定的，并且已知 $Sat(FO^2)$ 是 NEXPTIME-complete，下一步是尽快得到复杂性方面的结果。
+- 总是最近的时间没有白费吧😓😓😓
 
 
 
