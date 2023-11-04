@@ -5,6 +5,11 @@ my adventures on Logic(s)
 ## 11 月
 
 #### 11/02-03
+- 还是将 Zotero 7 退回了 6，有太多插件不适配啦！！
+- 对 cylindric modal logic 有了点新想法，也不知道能不能做下去，加油吧
+
+
+#### 11/02-03
 - 将 Zotero 升级到了 7 beta 版，确实变快了很多👍👍👍
 - 写 PR
 
